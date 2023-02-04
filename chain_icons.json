@@ -103,6 +103,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "chiliz",
+  "icons": [{
+    "url": "ipfs://QmYV5xUVZhHRzLy7ie9D8qZeygJHvNZZAxwnB9GXYy6EED",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  }]
+}, {
   "name": "omlira",
   "icons": [{
     "url": "ipfs://QmQtEHaejiDbmiCvbBYw9jNQv3DLK5XHCQwLRfnLNpdN5j",
@@ -852,6 +860,14 @@
     "url": "ipfs://QmWb1gthhbzkiLdgcP8ccZprGbJVjFcW8Rn4uJjrw4jd3B",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "FastexChain",
+  "icons": [{
+    "url": "ipfs://QmaQMapSRYPbxU2ivtrovYX8YRW7S19hVTutN4NW55C7hx",
+    "width": 3001,
+    "height": 3001,
     "format": "png"
   }]
 }, {
@@ -1636,6 +1652,14 @@
     "url": "ipfs://QmYSyhUqm6ArWyALBe3G64823ZpEUmFdkzKZ93hUUhNKgU",
     "width": 360,
     "height": 361,
+    "format": "png"
+  }]
+}, {
+  "name": "shardeum",
+  "icons": [{
+    "url": "ipfs://Qma1bfuubpepKn7DLDy4NPSKDeT3S4VPCNhu6UmdGrb6YD",
+    "width": 609,
+    "height": 533,
     "format": "png"
   }]
 }, {

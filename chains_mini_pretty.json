@@ -5511,6 +5511,19 @@
   "faucets": ["https://faucet.liberty20.shardeum.org"],
   "infoURL": "https://docs.shardeum.org/"
 }, {
+  "name": "Shardeum Sphinx 1.X",
+  "chainId": 8082,
+  "shortName": "Sphinx10",
+  "networkId": 8082,
+  "nativeCurrency": {
+    "name": "Shardeum SHM",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": ["https://sphinx.shardeum.org/"],
+  "faucets": ["https://faucet-sphinx.shardeum.org/"],
+  "infoURL": "https://docs.shardeum.org/"
+}, {
   "name": "StreamuX Blockchain",
   "chainId": 8098,
   "shortName": "StreamuX",
@@ -7461,6 +7474,19 @@
   "faucets": ["https://faucet.polygon.technology/"],
   "infoURL": "https://polygon.technology/"
 }, {
+  "name": "Chiliz Scoville Testnet",
+  "chainId": 88880,
+  "shortName": "chz",
+  "networkId": 88880,
+  "nativeCurrency": {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "decimals": 18
+  },
+  "rpc": ["https://scoville-rpc.chiliz.com"],
+  "faucets": ["https://scoville-faucet.chiliz.com"],
+  "infoURL": "https://www.chiliz.com/en/chain"
+}, {
   "name": "IVAR Chain Mainnet",
   "chainId": 88888,
   "shortName": "ivar",
@@ -8864,6 +8890,32 @@
   "rpc": ["https://c.onical.org", "https://tx.aquacha.in/api"],
   "faucets": ["https://aquacha.in/faucet"],
   "infoURL": "https://aquachain.github.io"
+}, {
+  "name": "Autonity Bakerloo (Thames) Testnet",
+  "chainId": 65010000,
+  "shortName": "bakerloo-0",
+  "networkId": 65010000,
+  "nativeCurrency": {
+    "name": "Bakerloo Auton",
+    "symbol": "ATN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1.bakerloo.autonity.org/", "wss://rpc1.bakerloo.autonity.org/ws/"],
+  "faucets": ["https://faucet.autonity.org/"],
+  "infoURL": "https://autonity.org/"
+}, {
+  "name": "Autonity Piccadilly (Thames) Testnet",
+  "chainId": 65100000,
+  "shortName": "piccadilly-0",
+  "networkId": 65100000,
+  "nativeCurrency": {
+    "name": "Piccadilly Auton",
+    "symbol": "ATN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1.piccadilly.autonity.org/", "wss://rpc1.piccadilly.autonity.org/ws/"],
+  "faucets": ["https://faucet.autonity.org/"],
+  "infoURL": "https://autonity.org/"
 }, {
   "name": "Joys Digital TestNet",
   "chainId": 99415706,

@@ -1426,7 +1426,7 @@
     "decimals": 18
   },
   "rpc": ["https://evmapi.nuls.io", "https://evmapi2.nuls.io"],
-  "faucets": ["http://faucet.nuls.io"],
+  "faucets": [],
   "infoURL": "https://nuls.io"
 }, {
   "name": "ENULS Testnet",

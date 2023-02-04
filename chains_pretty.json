@@ -2042,7 +2042,7 @@
   "name": "ENULS Mainnet",
   "chain": "ENULS",
   "rpc": ["https://evmapi.nuls.io", "https://evmapi2.nuls.io"],
-  "faucets": [],
+  "faucets": ["http://faucet.nuls.io"],
   "nativeCurrency": {
     "name": "NULS",
     "symbol": "NULS",
@@ -2063,7 +2063,7 @@
   "name": "ENULS Testnet",
   "chain": "ENULS",
   "rpc": ["https://beta.evmapi.nuls.io", "https://beta.evmapi2.nuls.io"],
-  "faucets": [],
+  "faucets": ["http://faucet.nuls.io"],
   "nativeCurrency": {
     "name": "NULS",
     "symbol": "NULS",

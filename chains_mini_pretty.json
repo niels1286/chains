@@ -1426,7 +1426,7 @@
     "decimals": 18
   },
   "rpc": ["https://evmapi.nuls.io", "https://evmapi2.nuls.io"],
-  "faucets": [],
+  "faucets": ["http://faucet.nuls.io"],
   "infoURL": "https://nuls.io"
 }, {
   "name": "ENULS Testnet",
@@ -1439,7 +1439,7 @@
     "decimals": 18
   },
   "rpc": ["https://beta.evmapi.nuls.io", "https://beta.evmapi2.nuls.io"],
-  "faucets": [],
+  "faucets": ["http://faucet.nuls.io"],
   "infoURL": "https://nuls.io"
 }, {
   "name": "Fuse Mainnet",
